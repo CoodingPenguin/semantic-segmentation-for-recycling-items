@@ -34,7 +34,7 @@
 
 ## 👀 회고
 
-**[👉 회고 보러가기](https://github.com/CoodingPenguin/semantic-segmentation-for-recycling-items/wiki)**
+> **[👉 회고 보러가기](https://github.com/CoodingPenguin/semantic-segmentation-for-recycling-items/wiki)**
 
 - 대회 개요
 - 대회 결과
