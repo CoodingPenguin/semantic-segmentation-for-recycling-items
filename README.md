@@ -37,6 +37,17 @@
 > **[👉 회고 보러가기](https://github.com/CoodingPenguin/semantic-segmentation-for-recycling-items/wiki)**
 
 - 대회 개요
+  - 배경
+  - 문제 정의
+  - 평가지표: mIoU
 - 대회 결과
 - 접근 방법
+  - 협업 방식
+  - 베이스코드 개선
+  - 모델 실험
+  - Augmentation 기법
+  - 그 외
 - 회고
+  - 좋았던 점
+  - 아쉬웠던 점
+  - 다음에 시도해볼 것-것
